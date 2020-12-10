@@ -1,5 +1,7 @@
 # Gif-in-Zoom-Avatar
-Lets you put a gif on your avatar in Zoom 
+Installation 🚀
+
+1) Lets you put a gif on your avatar in Zoom 
 Install Python version no lower than 3.7:
 https://www.python.org/
 
