@@ -7,6 +7,6 @@ https://www.python.org/
 
 
 
-git clone https://github.com/itsfl1ker/Gif-in-Zoom-Avatar
+2) git clone https://github.com/itsfl1ker/Gif-in-Zoom-Avatar
 cd  zoom gif by fl1ker
 pip3 install -r requirements.txt
